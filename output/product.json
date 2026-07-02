@@ -1,7 +1,7 @@
 {
-  "url": "https://us-store.msi.com/Motherboards/Intel-Platform-Motherboard/INTEL-Z890/MEG-Z890-ACE",
-  "item_id": "2371",
-  "title": "MEG Z890 ACE",
+  "url": "https://us-store.msi.com/Motherboards/Intel-Platform-Motherboard/INTEL-Z890/MAG-Z890-TOMAHAWK-WIFI",
+  "item_id": "2373",
+  "title": "MAG Z890 TOMAHAWK WIFI",
   "brand": "MSI",
   "product_category": "Motherboards > INTEL PLATFORM > Intel Z890",
   "category_tree": [
@@ -18,24 +18,22 @@
       "url": "https://us-store.msi.com/Motherboards/Intel-Platform-Motherboard/INTEL-Z890"
     },
     {
-      "name": "MEG Z890 ACE",
+      "name": "MAG Z890 TOMAHAWK WIFI",
       "url": null
     }
   ],
-  "description": "Furnished premium aesthetics with its dark black finish and pale gold embellishes. Developed to unlock the full gaming potential of the Intel Core Ultra processor by combining elite hardware system support and premium durability, the MEG Z890 ACE is an outstanding ATX of Z890 platform for extreme settings in terms of overclocking the processor, DDR5 memory, and graphics card at the highest level.\n#description-list ul {\n  padding-left: 40px;}\n#description-list li {\n  list-style: disc;}\n\nSupport Intel® Core™ Ultra Processors (Series 2) for LGA 1851 socketSupports DDR5 Memory, Dual Channel DDR5 9200+ MT/s (OC)Ultra Performance: 24+2+1+1 Duet Rail Power System, 110A SPS, OC Engine, dual 8-pin CPU power connectors, Core Boost, Memory Boost, 8-layer PCB made by 2oz thickened copper and server-grade level material.Frozr Guard: Wavy fin design, Direct Touch Cross Heat-pipe, MOSFET Baseplate, 9W/mK thermal pads, Double-Sided M.2 Shield Frozr and Frozr AI software ensure the utmost performance with low temperature.EZ DIY: EZ PCIe Release, EZ Magnetic M.2 Shield Frozr II, EZ M.2 Clip II and EZ Antenna.Ultra Connect: Dual Thunderbolt™ 4 ports, 10G LAN, and Full-speed Intel® Killer™ Wi-Fi 7 Solution - The latest solution for professional and multimedia use, delivering secure, stable, and high-speed networking and data transmission.Lightning Fast Game Experience: PCIe 5.0 slots, Onboard 5x M.2 Connectors with Lightning Gen 5 Solution, Front USB 20G with 60W USB Power Delivery.Audio Boost 5 HD: Ultimate audio solution with latest premium ALC4082 audio processor combining ESS audio DAC and amplifier deliver the breathtaking experience.",
-  "price": 659.99,
+  "description": "The MAG Z890 TOMAHAWK WIFI Intel LGA 1851 gaming motherboard delivers cutting-edge connectivity, including Wi-Fi 7, 5G LAN, Thunderbolt 4, PCIe 5.0, and M.2 Gen5. Designed for AI-PCs and EZ DIY, it’s an ideal Z890 ATX motherboard for Intel Core Ultra CPU.\n#description-list ul {\n  padding-left: 40px;}\n#description-list li {\n  list-style: disc;}\n\nSupport Intel® Core™ Ultra Processors (Series 2) for LGA 1851 socketSupports DDR5 Memory, Dual Channel DDR5 9200+ MT/s (OC)Ultra Performance: 16+1+1+1 Duet Rail Power System 90A SPS, dual 8-pin CPU power connectors, Core Boost, Memory Boost, 6-layer PCB made by 2oz thickened copper and server-grade level materialFrozr Guard: Extended Heatsink, MOSFET thermal pads rated for 7W/mK, additional choke thermal pads and EZ M.2 Shield Frozr II are built for high performance system and non-stop experienceEZ DIY: EZ PCIe Release, EZ M.2 Shield Frozr II, EZ M.2 Clip II and EZ AntennaLightning Fast Game experience: PCIe 5.0 slot, Lightning Gen 5 x4 M.2Ultra Connect: Thunderbolt™ 4 port, Intel® Killer™ 5G LAN & Intel® Killer™ Wi-Fi 7 Solution - the latest solution for professional and multimedia use, delivering secure, stable, and high-speed networking and data transmissionAudio Boost 4: Reward your ears with studio grade sound quality for the most immersive gaming experience",
+  "price": 259.99,
   "sale_price": null,
   "availability": "in_stock",
-  "image_url": "https://asset-us-store.msi.com/image/cache/catalog/Pd_page/Motherboard/2024/Z890ACE/Z890ACE-1-1024x1024.png",
+  "image_url": "https://asset-us-store.msi.com/image/cache/catalog/Pd_page/Motherboard/2024/Z890TOMAHAWKWIFI/Z890TOMAHAWKWIFI-1-1024x1024.png",
   "additional_image_urls": [
-    "https://asset-us-store.msi.com/image/cache/catalog/Pd_page/Motherboard/2024/Z890ACE/Z890ACE-5-1024x1024.png",
-    "https://asset-us-store.msi.com/image/cache/catalog/Pd_page/Motherboard/2024/Z890ACE/Z890ACE-6-1024x1024.png",
-    "https://asset-us-store.msi.com/image/cache/catalog/Pd_page/Motherboard/2024/Z890ACE/Z890ACE-7-1024x1024.png",
-    "https://asset-us-store.msi.com/image/cache/catalog/Pd_page/Motherboard/2024/Z890ACE/Z890ACE-8-1024x1024.png",
-    "https://asset-us-store.msi.com/image/cache/catalog/Pd_page/Motherboard/2024/Z890ACE/Z890ACE-9-1024x1024.png",
-    "https://asset-us-store.msi.com/image/cache/catalog/Pd_page/Motherboard/2024/Z890ACE/Z890ACE-2-1024x1024.png",
-    "https://asset-us-store.msi.com/image/cache/catalog/Pd_page/Motherboard/2024/Z890ACE/Z890ACE-3-1024x1024.png",
-    "https://asset-us-store.msi.com/image/cache/catalog/Pd_page/Motherboard/2024/Z890ACE/Z890ACE-4-1024x1024.png"
+    "https://asset-us-store.msi.com/image/cache/catalog/Pd_page/Motherboard/2024/Z890TOMAHAWKWIFI/Z890TOMAHAWKWIFI-3-1024x1024.png",
+    "https://asset-us-store.msi.com/image/cache/catalog/Pd_page/Motherboard/2024/Z890TOMAHAWKWIFI/Z890TOMAHAWKWIFI-4-1024x1024.png",
+    "https://asset-us-store.msi.com/image/cache/catalog/Pd_page/Motherboard/2024/Z890TOMAHAWKWIFI/Z890TOMAHAWKWIFI-5-1024x1024.png",
+    "https://asset-us-store.msi.com/image/cache/catalog/Pd_page/Motherboard/2024/Z890TOMAHAWKWIFI/Z890TOMAHAWKWIFI-6-1024x1024.png",
+    "https://asset-us-store.msi.com/image/cache/catalog/Pd_page/Motherboard/2024/Z890TOMAHAWKWIFI/Z890TOMAHAWKWIFI-7-1024x1024.png",
+    "https://asset-us-store.msi.com/image/cache/catalog/Pd_page/Motherboard/2024/Z890TOMAHAWKWIFI/Z890TOMAHAWKWIFI-2-1024x1024.png"
   ],
   "specs": [
     {
@@ -44,7 +42,7 @@
     },
     {
       "name": "Manufacturer Number",
-      "value": "MEG Z890 ACE"
+      "value": "MAG Z890 TOMAHAWK WIFI"
     },
     {
       "name": "Product Condition",
@@ -68,11 +66,11 @@
     },
     {
       "name": "Memory",
-      "value": "4x DDR5 UDIMM, Maximum Memory Capacity 256GB Memory Support 9200 - 6400 (OC) MT/s / 6400 - 4800 (JEDEC) MT/s Max. overclocking frequency: 1DPC 1R Max speed up to 9200+ MT/s 1DPC 2R Max speed up to 7200+ MT/s 2DPC 1R Max speed up to 4800+ MT/s 2DPC 2R Max speed up to 4800+ MT/s Supports Intel POR Speed and JEDEC Speed Supports Memory Overclocking and Intel XMP 3.0 Supports Dual-Controller Dual-Channel mode Supports Non-ECC, Un-buffered memory Supports CUDIMM"
+      "value": "4x DDR5 UDIMM, Maximum Memory Capacity 256GB Memory Support 9200 - 6400 (OC) MT/s / 6400 - 4800 (JEDEC) MT/s Max. overclocking frequency: 1DPC 1R Max speed up to 9200+ MT/s 1DPC 2R Max speed up to 7200+ MT/s 2DPC 1R Max speed up to 4800+ MT/s 2DPC 2R Max speed up to 4800+ MT/s Supports Intel® POR Speed and JEDEC Speed Supports Memory Overclocking and Intel® XMP 3.0 Supports Dual-Controller Dual-Channel mode Supports Non-ECC, Un-buffered memory Supports CUDIMM"
     },
     {
       "name": "LAN",
-      "value": "1x Marvell® AQC113CS 10Gbps LAN"
+      "value": "Intel® Killer™ E5000 5Gbps LAN"
     },
     {
       "name": "Wireless LAN",
@@ -80,11 +78,11 @@
     },
     {
       "name": "Bluetooth",
-      "value": "Supports Bluetooth® 5.4**, MLO, 4KQAM 6GHz band support may depend on every country’s regulations and Wi-Fi 7 will be ready in Windows 11 version 24H2. The Bluetooth version may be updated, please refer to the Wi-Fi chipset vendor’s website for details. Bluetooth 5.4 will be ready in Windows 11 version 24H2."
+      "value": "Supports Bluetooth® 5.4**, MLO, 4KQAM 6GHz band support may depend on every country’s regulations and Wi-Fi 7 will be ready in Windows 11 SV3. The Bluetooth version may be updated, please refer to the Wi-Fi chipset vendor's website for details. Bluetooth 5.4 support schedule depends on MSFT Windows 11 plan."
     },
     {
       "name": "Audio",
-      "value": "Realtek® ALC4082 Codec + ESS9219Q Combo DAC/HPA 7.1-Channel USB High-Performance Audio Supports S/PDIF output Supports up to 32-Bit/384 kHz playback on front panel"
+      "value": "Realtek® ALC1220P Codec 7.1-Channel High Definition Audio Supports S/PDIF output"
     },
     {
       "name": "MULTI-GPU",
@@ -92,11 +90,11 @@
     },
     {
       "name": "STORAGE",
-      "value": "5x M.2 M.2_1 Source (From CPU) supports up to PCIe 5.0 x4 , supports 2280/2260 devices M.2_2 Source (From CPU) supports up to PCIe 4.0 x4 , supports 2280/2260 devices M.2_3 Source (From Chipset) supports up to PCIe 4.0 x4 , supports 2280/2260 devices M.2_4 Source (From Chipset) supports up to PCIe 4.0 x4 , supports 22110/2280 devices M.2_5 Source (From Chipset) supports up to PCIe 4.0 x4 / SATA mode, supports 2280/2260 devices 4x SATA 6G M2_4 default from chipset, can support PCIe 5.0 x4 (From CPU) by manual BIOS adjustment. Please refer to the manual for M.2 SSD heatsink restrictions."
+      "value": "4x M.2 M.2_1 Source (From CPU) supports up to PCIe 5.0 x4 , supports 2280/2260 devices M.2_2 Source (From CPU) supports up to PCIe 4.0 x4 , supports 22110/2280/2260 devices M.2_3 Source (From Chipset) supports up to PCIe 4.0 x4 , supports 2280/2260/2242 devices M.2_4 Source (From Chipset) supports up to PCIe 4.0 x4 / SATA mode, supports 2280/2260/2242 devices 4x SATA 6G Please refer to the manual for M.2 SSD heatsink restrictions."
     },
     {
       "name": "Onboard Graphics",
-      "value": "1x HDMI™ Support HDMITM 2.1 with FRL port, maximum resolution of 8K 60Hz 2x Type-C DisplayPort Thundebolt™ 4 ports supporting DisplayPort 1.4 with HBR3 over USB Type-C, with a maximum resolution of 8K@60Hz Available only on processors featuring integrated graphics. Graphics specifications may vary depending on the CPU installed."
+      "value": "1x HDMI™ Support HDMI™ 2.1 with FRL, maximum resolution of 4K 120Hz 2x Type-C DisplayPort Thunderbolt™ 4 ports, supporting DisplayPort 1.4 over USB Type-C®, with a maximum resolution of 4K 120Hz / 8K 60Hz Available only on processors featuring integrated graphics. Graphics specifications may vary depending on the CPU installed."
     },
     {
       "name": "RAID",
@@ -104,27 +102,27 @@
     },
     {
       "name": "I/O (Rear)",
-      "value": "USB 10Gbps (Type-A) Flash BIOS Button Clear CMOS Button Smart Button 10G LAN Wi-Fi / Bluetooth HD Audio Connectors HDMI™ 2.1 Port Thunderbolt™ 4 40Gbps (Type-C) USB 10Gbps (Type-C) USB 10Gbps (Type-A) Optical S/PDIF-Out"
+      "value": "USB 10Gbps Type-A USB 5Gbps Type-A 5G LAN Wi-Fi / Bluetooth Audio Connectors HDMI™ Thunderbolt™ 4 40Gbps (Type-C) USB 10Gbps Type-C Flash BIOS Button Clear CMOS Button USB 5Gbps Type-A S/PDIF-OUT"
     },
     {
       "name": "Expansion Slots",
-      "value": "3x PCI-E x16 slot PCI_E1 Gen PCIe 5.0 supports up to x16 (From CPU) PCI_E2 Gen PCIe 5.0 supports up to x8 (From CPU) PCI_E3 Gen PCIe 4.0 supports up to x4 (From Chipset) PCI_E1 support manual BIOS adjustment to X8+X8/X8+X4+X4 PCI_E2 support manual BIOS adjustment to X4+X4 PCI_E1 slot will run at x8 speed when PCI_E2 slot installing device. PCI_E1 slot will run at x8 speed and PCI_E2 slot will run at x4 speed when installing PCIe Gen 5 M.2 device in the M2_4 slot."
+      "value": "3x PCI-E x16 slot PCI_E1 Gen PCIe 5.0 supports up to x16 (From CPU) PCI_E2 Gen PCIe 4.0 supports up to x4 (From Chipset) PCI_E3 Gen PCIe 4.0 supports up to x4 (From Chipset)"
     },
     {
       "name": "USB (Front)",
-      "value": "4x USB 2.0 4x USB 5Gbps Type A 1x USB 20Gbps Type C To achieve USB PD 60W fast charging for JUSBC1, the PD_PWR1 connector needs to be connected to the power supply unit."
+      "value": "4x USB 2.0 2x USB 5Gbps Type A 1x USB 20Gbps Type C USB 20Gbps Type-C (Front) support USB PD 27W fast charging for JUSBC1"
     },
     {
       "name": "USB (Rear)",
-      "value": "11x USB 10Gbps Type A 2x USB 10Gbps Type C To achieve USB PD 60W fast charging for JUSBC1, the PD_PWR1 connector needs to be connected to the power supply unit."
+      "value": "4x USB 5Gbps Type A 3x USB 10Gbps Type A 1x USB 10Gbps Type C"
     },
     {
       "name": "TYPE-C PORT",
-      "value": "2x USB 10Gbps Type C 1x USB 20Gbps Type C"
+      "value": "1x USB 10Gbps Type C 1x USB 20Gbps Type C"
     },
     {
       "name": "Internal Connectors",
-      "value": "1x Thunderbolt5 card connector(JTBT5, support RTD3) 1x Power Connector(ATX_PWR) 2x Power Connector(CPU_PWR) 1x Power Connector(PCIE_PWR 8pin) 1x Front Type-C Quick Charge Connector(PD_PWR1) 1x CPU Fan 2x Combo Fan (Pump_Sys Fan) 5x System Fan 1x EZ Conn-header (JAF_2) 2x Front Panel (JFP) 1x Chassis Intrusion (JCI) 1x Water Flow connector 1x Slow Mode Booting Jumper(JSLOW) 1x Front Audio (JAUD) 2x Thermal Sensor connectors(T_SEN) 1x Tuning Controller connector(JDASH) 3x Addressable V2 RGB LED connector (JARGB_V2) 1x RGB LED connector(JRGB) 1x TPM pin header(Support TPM 2.0) V-check point 4x USB 2.0 ports 4x USB 5Gbps Type A ports 1x USB 20Gbps Type C ports"
+      "value": "1x Thunderbolt5 card connector(JTBT5, support RTD3) 1x Power Connector(ATX_PWR) 2x Power Connector(CPU_PWR) 1x Power Connector(PCIE_PWR 8pin) 1x CPU Fan 1x Combo Fan (Pump_Sys Fan) 6x System Fan 1x EZ Conn-header (JAF_2) 2x Front Panel (JFP) 1x Chassis Intrusion (JCI) 1x Front Audio (JAUD) 3x Addressable V2 RGB LED connector (JARGB_V2) 1x RGB LED connector(JRGB) 1x TPM pin header(Support TPM 2.0) 4x USB 2.0 ports 2x USB 5Gbps Type A ports 1x USB 20Gbps Type C ports"
     },
     {
       "name": "Dimensions",
@@ -135,9 +133,9 @@
       "value": "3 Year"
     }
   ],
-  "star_rating": 4.9,
-  "review_count": 7,
+  "star_rating": 4.7,
+  "review_count": 3,
   "gtin": null,
-  "mpn": "MEG Z890 ACE",
-  "scraped_at": "2026-07-02T18:41:16.155Z"
+  "mpn": "MAG Z890 TOMAHAWK WIFI",
+  "scraped_at": "2026-07-02T19:02:44.633Z"
 }
