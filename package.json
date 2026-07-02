@@ -1,0 +1,17 @@
+{
+  "name": "msi-product-scraper",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "scrape": "node src/scrape.js"
+  },
+
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "playwright": "^1.61.1"
+  }
+}
