@@ -118,6 +118,7 @@ msi-product-scraper/
 │   └── product.json       # Generated output file
 ├── src/
 │   └── scrape.js          # Core scraper script
+├── .gitignore
 ├── package.json
 └── README.md
 ```
