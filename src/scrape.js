@@ -122,27 +122,19 @@ async function parseDescription(page) {
   const descParagraph = page.locator('.crop-text-2 + div > p').first();
   const descList = page.locator('#description-list');
 
-  // Вводный абзац
   const pText = (await descParagraph.count() > 0)
     ? (await descParagraph.textContent() || '').replace(/\s+/g, ' ').trim()
     : '';
 
-  // Берём текст КАЖДОГО пункта списка отдельно (не всего блока целиком),
-  // это исключает попадание текста из вложенных <style> тегов.
   let listItems = [];
   if (await descList.count() > 0) {
     const rawItems = await descList.locator('li').allTextContents();
     listItems = rawItems
       .map(item => item.replace(/\s+/g, ' ').trim())
-      // убираем точку в конце пункта, если она есть — чтобы не было
-      // двойной пунктуации при добавлении маркера ниже
       .map(item => item.replace(/\.$/, ''))
       .filter(Boolean);
   }
 
-  // Склеиваем вводный абзац и список: список оформляем как
-  // маркированные строки ("- ...") с переносом строки перед каждым пунктом —
-  // это читается как аккуратный список, даже оставаясь одной строкой в JSON.
   const parts = [];
   if (pText) parts.push(pText);
   if (listItems.length > 0) {
