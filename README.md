@@ -23,22 +23,34 @@ JavaScript test task.
 
 ---
 
-## Installation
+## Installation / How to run
 
-1. Clone the repository and move into the project directory:
-bash
-   cd msi-product-scraper
-
-
-2. Install dependencies:
+1. Clone the repository:
 ```bash
-   npm install
+git clone https://github.com/andriy-chornyy/msi-product-scraper.git
 ```
 
-3. Install the Chromium browser binary required by Playwright:
+2. Navigate to the project folder:
 ```bash
-   npx playwright install chromium
+cd msi-product-scraper
 ```
+
+3. Install dependencies:
+```bash
+npm install
+```
+
+4. Install the Chromium browser binary required by Playwright:
+```bash
+npx playwright install chromium
+```
+
+5. Run the scraper with the default URL:
+```bash
+npm run scrape
+```
+
+After a successful run, `output/product.json` is created or overwritten.
 
 ---
 
@@ -58,8 +70,6 @@ required so npm forwards the argument to the script):
 ```bash
 npm run scrape -- https://us-store.msi.com/Motherboards/Intel-Platform-Motherboard/INTEL-Z890/MEG-Z890-ACE
 ```
-
-After a successful run, `output/product.json` is created or overwritten.
 
 ---
 
