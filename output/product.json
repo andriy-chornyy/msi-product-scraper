@@ -22,7 +22,7 @@
       "url": null
     }
   ],
-  "description": "The MAG Z890 TOMAHAWK WIFI Intel LGA 1851 gaming motherboard delivers cutting-edge connectivity, including Wi-Fi 7, 5G LAN, Thunderbolt 4, PCIe 5.0, and M.2 Gen5. Designed for AI-PCs and EZ DIY, it’s an ideal Z890 ATX motherboard for Intel Core Ultra CPU.\n#description-list ul {\n  padding-left: 40px;}\n#description-list li {\n  list-style: disc;}\n\nSupport Intel® Core™ Ultra Processors (Series 2) for LGA 1851 socketSupports DDR5 Memory, Dual Channel DDR5 9200+ MT/s (OC)Ultra Performance: 16+1+1+1 Duet Rail Power System 90A SPS, dual 8-pin CPU power connectors, Core Boost, Memory Boost, 6-layer PCB made by 2oz thickened copper and server-grade level materialFrozr Guard: Extended Heatsink, MOSFET thermal pads rated for 7W/mK, additional choke thermal pads and EZ M.2 Shield Frozr II are built for high performance system and non-stop experienceEZ DIY: EZ PCIe Release, EZ M.2 Shield Frozr II, EZ M.2 Clip II and EZ AntennaLightning Fast Game experience: PCIe 5.0 slot, Lightning Gen 5 x4 M.2Ultra Connect: Thunderbolt™ 4 port, Intel® Killer™ 5G LAN & Intel® Killer™ Wi-Fi 7 Solution - the latest solution for professional and multimedia use, delivering secure, stable, and high-speed networking and data transmissionAudio Boost 4: Reward your ears with studio grade sound quality for the most immersive gaming experience",
+  "description": "The MAG Z890 TOMAHAWK WIFI Intel LGA 1851 gaming motherboard delivers cutting-edge connectivity, including Wi-Fi 7, 5G LAN, Thunderbolt 4, PCIe 5.0, and M.2 Gen5. Designed for AI-PCs and EZ DIY, it’s an ideal Z890 ATX motherboard for Intel Core Ultra CPU.\n\n- Support Intel® Core™ Ultra Processors (Series 2) for LGA 1851 socket\n- Supports DDR5 Memory, Dual Channel DDR5 9200+ MT/s (OC)\n- Ultra Performance: 16+1+1+1 Duet Rail Power System 90A SPS, dual 8-pin CPU power connectors, Core Boost, Memory Boost, 6-layer PCB made by 2oz thickened copper and server-grade level material\n- Frozr Guard: Extended Heatsink, MOSFET thermal pads rated for 7W/mK, additional choke thermal pads and EZ M.2 Shield Frozr II are built for high performance system and non-stop experience\n- EZ DIY: EZ PCIe Release, EZ M.2 Shield Frozr II, EZ M.2 Clip II and EZ Antenna\n- Lightning Fast Game experience: PCIe 5.0 slot, Lightning Gen 5 x4 M.2\n- Ultra Connect: Thunderbolt™ 4 port, Intel® Killer™ 5G LAN & Intel® Killer™ Wi-Fi 7 Solution - the latest solution for professional and multimedia use, delivering secure, stable, and high-speed networking and data transmission\n- Audio Boost 4: Reward your ears with studio grade sound quality for the most immersive gaming experience",
   "price": 259.99,
   "sale_price": null,
   "availability": "in_stock",
@@ -137,5 +137,5 @@
   "review_count": 3,
   "gtin": null,
   "mpn": "MAG Z890 TOMAHAWK WIFI",
-  "scraped_at": "2026-07-02T19:02:44.633Z"
+  "scraped_at": "2026-07-03T09:41:55.473Z"
 }
