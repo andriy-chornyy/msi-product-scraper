@@ -26,9 +26,9 @@ JavaScript test task.
 ## Installation
 
 1. Clone the repository and move into the project directory:
-```bash
+bash
    cd msi-product-scraper
-```
+
 
 2. Install dependencies:
 ```bash
